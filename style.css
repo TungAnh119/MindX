@@ -1,0 +1,151 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    ;
+}
+
+.topcloud {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 120px;
+    margin-top: 15px;
+}
+
+.botcloud {
+    display: flex;
+    margin-left: 200px;
+    padding-top: 20px;
+}
+
+.header {
+    font-family: "satisfy", cursive;
+    font-size: 200%;
+    color: #66bfbf;
+}
+
+.header2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 200%
+}
+
+.pro {
+    text-decoration: underline
+}
+
+.profilepic {
+    border-radius: 50%;
+    height: 200px;
+    padding-top: 80px;
+}
+
+.text {
+    font-size: 200%
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.myskills {
+    font-size: 200%;
+    margin-top: 5px;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+.text3 {
+    color: #66bfbf
+}
+
+.skill1 {
+    display: flex;
+
+    width: 50%;
+    margin: 80px auto 100px auto;
+    text-align: left
+}
+
+.textbody {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    text-align: left
+}
+
+.laptop {
+    height: 180px;
+}
+
+.skills2 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center
+}
+
+.noodles {
+    float: right;
+    margin-left: 30px;
+    height: 200px
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h5 {
+    color: #66bfbf;
+    font-size: 20px;
+}
+
+.text4 {
+    width: 650px;
+    text-align: center;
+    margin: 40px auto 60px;
+    ;
+    padding: 0;
+}
+
+.btn {
+    color: #11999e;
+    background-color: #11cdd4;
+    border-radius: 10px;
+    margin: 10px 20px;
+    color: azure;
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    font-size: 17px;
+    padding: 10px 20px;
+}
+
+.skills {
+    margin-bottom: 60px;
+}
+
+.botcontainer {
+    color: #11999e;
+    padding: 50px 0 20px;
+    background-color: #66bfbf;
+}
+
+a:-webkit-any {
+    cursor: pointer;
+    
+}
+.links {text-decoration: underline;
+}
+
+.year {
+    color: white
+}

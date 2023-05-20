@@ -1,0 +1,23 @@
+.container {
+    background-color:black;
+    height: 150px ; 
+    width: 300px ; 
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+
+}
+.den1 { background-color:red ;
+    height: 50px ; 
+    width: 50px ;
+    border-radius: 300px;
+
+}
+.den2 {background-color:yellow;
+    height: 50px ; 
+    width: 50px;
+    border-radius: 300px }
+.den3 {background-color:green;
+    height: 50px ; 
+    width: 50px;
+    border-radius: 300px}  
